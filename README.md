@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tyheard
 - 👀 I’m interested in ... Developing Websites, Apps, and Games
-- 🌱 I’m currently learning ... Full Stack Java Development
+- 🌱 I’m currently learning ... Front End Web Development
 - 💞️ I’m looking to collaborate on ... Web Development, Apps, Gaming projects
 - 📫 How to reach me ... tiraheard@gmail.com
 
